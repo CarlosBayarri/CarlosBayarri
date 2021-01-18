@@ -4,13 +4,13 @@
 
 <p>
   <em>
-    Full stack developer forever
+    <i class="fab fa-code fa-fw" style="color:#4f85bb; font-size:.85em" aria-hidden="true"></i> Full stack developer forever
     </br>
-    Full Stack developer at <a href="https:/e-lares.com">E-LARES</a>
+    <i class="fab fa-code fa-fw" style="color:#4f85bb; font-size:.85em" aria-hidden="true"></i> Full Stack developer at <a href="https:/e-lares.com">E-LARES</a>
     </br>
-    Front-End developer at <a href="https://www.disid.com/">DISID</a>
+    <i class="fab fa-code fa-fw" style="color:#4f85bb; font-size:.85em" aria-hidden="true"></i> Front-End developer at <a href="https://www.disid.com/">DISID</a>
     </br>
-    Geomatics Engineer by <a href="http://www.upv.es/">Polytechnic University of Valencia</a>
+    <i class="fab fa-university fa-fw" style="color:#b9bb4f; font-size:.85em" aria-hidden="true"></i> Geomatics Engineer by <a href="http://www.upv.es/">Polytechnic University of Valencia</a>
   </em>
 </p>
 
