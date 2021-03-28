@@ -15,10 +15,10 @@
 
 - 🔭 I’m currently working on a component library in Angular.
 - 🌱 I’m currently learning Dart and Flutter.
-- 👯 I’m looking to collaborate on some projects.
-- 🤔 I’m looking for help with Angular repo.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with E-LARES.
 - 💬 Ask me about developer world.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/carlos-bayarri/)
 
 ## GitHub stats
 
