@@ -1,6 +1,6 @@
-### Hi there 👋
+<img align='center' src="https://media-exp1.licdn.com/dms/image/C4D16AQHlpg2fqlPfGw/profile-displaybackgroundimage-shrink_350_1400/0/1613810955465?e=1622678400&v=beta&t=ObwWJDTBwkRLmjg7dFncdAzSbBM6hXY9thEtksUyjKQ">
 
-<img align='right' src="https://avatars2.githubusercontent.com/u/31616221?s=400&v=4" width="230">
+### Hi there 👋
 
 <p> :heart: Developer forever </p>
 <p> :house: Full Stack developer at <a href="https://e-lares.com" target="_blank">E-LARES</a> </p>
