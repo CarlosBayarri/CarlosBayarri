@@ -7,8 +7,6 @@
 <p> :computer: Front-End developer at <a href="https://www.disid.com/" target="_blank">DISID</a> </p>
 <p> :school: Geomatics Engineer by <a href="http://www.upv.es/" target="_blank">Polytechnic University of Valencia</a> </p>
 
-
-[![Linkedin: carlos-bayarri](https://img.shields.io/badge/carlos-bayarri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-bayarri/)](https://www.linkedin.com/in/carlos-bayarri/)
 [![GitHub CarlosBayarri](https://img.shields.io/github/followers/CarlosBayarri?label=follow&style=social)](https://github.com/CarlosBayarri)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,7 +16,8 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with E-LARES.
 - 💬 Ask me about developer world.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/carlos-bayarri/)
+- 📫 How to reach me: 
+  - <a href="https://www.linkedin.com/in/carlos-bayarri/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 
 ## GitHub stats
 
