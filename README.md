@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with Angular repo.
 - 💬 Ask me about developer world.
 - 📫 How to reach me: ...
-- 
+
 ## GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosBayarri)
