@@ -1,4 +1,3 @@
-<img align='center' src="https://media-exp1.licdn.com/dms/image/C4D16AQHlpg2fqlPfGw/profile-displaybackgroundimage-shrink_350_1400/0/1613810955465?e=1622678400&v=beta&t=ObwWJDTBwkRLmjg7dFncdAzSbBM6hXY9thEtksUyjKQ">
 
 ## Hi there 👋
 
