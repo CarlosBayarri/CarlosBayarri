@@ -11,7 +11,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on a component library in Angular.
-- 🌱 I’m currently learning Dart and Flutter.
+- 🌱 I’m always learning.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with RIME.
 - 💬 Ask me about developer world.
