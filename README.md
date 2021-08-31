@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a component library in Angular.
 - 🌱 I’m currently learning Dart and Flutter.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with E-LARES.
+- 🤔 I’m looking for help with RIME.
 - 💬 Ask me about developer world.
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/carlos-bayarri/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
